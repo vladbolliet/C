@@ -1,2 +1,2 @@
 # C
-Programs written in the C programming language.
+Programs written by me in the C programming language.
