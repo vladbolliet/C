@@ -1,3 +1,4 @@
+17 November 2024
 
 # How the Chocolate Game Works
 
